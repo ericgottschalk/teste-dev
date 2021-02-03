@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<NotaFiscal xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>0</Id>
+  <NumeroNotaFiscal>411580083</NumeroNotaFiscal>
+  <Serie>411580083</Serie>
+  <NomeCliente>etew</NomeCliente>
+  <EstadoDestino>
+    <Id>1</Id>
+    <Uf>AC</Uf>
+    <Regiao>CentroOeste</Regiao>
+  </EstadoDestino>
+  <EstadoOrigem>
+    <Id>1</Id>
+    <Uf>AC</Uf>
+    <Regiao>CentroOeste</Regiao>
+  </EstadoOrigem>
+  <ItensDaNotaFiscal>
+    <NotaFiscalItem>
+      <Id>0</Id>
+      <IdNotaFiscal>0</IdNotaFiscal>
+      <Cfop>6.000</Cfop>
+      <TipoIcms>60</TipoIcms>
+      <BaseIcms>234</BaseIcms>
+      <AliquotaIcms>0.18</AliquotaIcms>
+      <ValorIcms>42.12</ValorIcms>
+      <BaseIpi>234</BaseIpi>
+      <AliquotaIpi>0.1</AliquotaIpi>
+      <ValorIpi>23.400000000000002</ValorIpi>
+      <NomeProduto>efewf</NomeProduto>
+      <CodigoProduto>efwe</CodigoProduto>
+      <Desconto>0</Desconto>
+    </NotaFiscalItem>
+  </ItensDaNotaFiscal>
+</NotaFiscal>

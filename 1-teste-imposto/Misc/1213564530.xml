@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<NotaFiscal xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>0</Id>
+  <NumeroNotaFiscal>1213564530</NumeroNotaFiscal>
+  <Serie>1213564530</Serie>
+  <NomeCliente>rfref</NomeCliente>
+  <EstadoDestino>
+    <Id>18</Id>
+    <Uf>PI</Uf>
+    <Regiao>CentroOeste</Regiao>
+  </EstadoDestino>
+  <EstadoOrigem>
+    <Id>11</Id>
+    <Uf>MT</Uf>
+    <Regiao>CentroOeste</Regiao>
+  </EstadoOrigem>
+  <ItensDaNotaFiscal>
+    <NotaFiscalItem>
+      <Id>0</Id>
+      <IdNotaFiscal>0</IdNotaFiscal>
+      <Cfop>6.000</Cfop>
+      <TipoIcms>10</TipoIcms>
+      <BaseIcms>0</BaseIcms>
+      <AliquotaIcms>0.17</AliquotaIcms>
+      <ValorIcms>0</ValorIcms>
+      <BaseIpi>0</BaseIpi>
+      <AliquotaIpi>0.1</AliquotaIpi>
+      <ValorIpi>0</ValorIpi>
+      <NomeProduto>wefe</NomeProduto>
+      <CodigoProduto>rferf</CodigoProduto>
+      <Desconto>0</Desconto>
+    </NotaFiscalItem>
+  </ItensDaNotaFiscal>
+</NotaFiscal>

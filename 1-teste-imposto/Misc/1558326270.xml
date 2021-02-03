@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<NotaFiscal xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>0</Id>
+  <NumeroNotaFiscal>1558326270</NumeroNotaFiscal>
+  <Serie>1558326270</Serie>
+  <NomeCliente>fgfgfd</NomeCliente>
+  <EstadoDestino>
+    <Id>5</Id>
+    <Uf>BA</Uf>
+    <Regiao>CentroOeste</Regiao>
+  </EstadoDestino>
+  <EstadoOrigem>
+    <Id>3</Id>
+    <Uf>AP</Uf>
+    <Regiao>CentroOeste</Regiao>
+  </EstadoOrigem>
+  <ItensDaNotaFiscal>
+    <NotaFiscalItem>
+      <Id>0</Id>
+      <IdNotaFiscal>0</IdNotaFiscal>
+      <Cfop>6.000</Cfop>
+      <TipoIcms>60</TipoIcms>
+      <BaseIcms>34234</BaseIcms>
+      <AliquotaIcms>0.18</AliquotaIcms>
+      <ValorIcms>6162.12</ValorIcms>
+      <BaseIpi>34234</BaseIpi>
+      <AliquotaIpi>0</AliquotaIpi>
+      <ValorIpi>0</ValorIpi>
+      <NomeProduto>32423</NomeProduto>
+      <CodigoProduto>234234</CodigoProduto>
+      <Desconto>0</Desconto>
+    </NotaFiscalItem>
+  </ItensDaNotaFiscal>
+</NotaFiscal>
